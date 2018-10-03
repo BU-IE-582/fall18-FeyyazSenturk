@@ -1,5 +1,5 @@
 
-# Example Progress Journal
+# Progress Journal
 
 ## Week 0 (September 19)
 
