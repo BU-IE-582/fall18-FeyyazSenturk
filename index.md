@@ -8,3 +8,7 @@
 ## Homework 1 (October 18)
 
 You can find my first homework [here](files/hw1.html).
+
+## Homework 2 (October 25)
+
+My second homework can be found [here](files/hw2.html).
