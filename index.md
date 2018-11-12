@@ -12,3 +12,7 @@ You can find my first homework [here](files/hw1.html).
 ## Homework 2 (October 25)
 
 My second homework can be found [here](files/hw2.html).
+
+## Homework 3 (November 12)
+
+My third homework can be found [here](files/hw3.html)
