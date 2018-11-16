@@ -15,4 +15,4 @@ My second homework can be found [here](files/hw2.html).
 
 ## Homework 3 (November 12)
 
-My third homework can be found [here](files/hw3.html)
+My third homework can be found [here](files/HW3.html)
