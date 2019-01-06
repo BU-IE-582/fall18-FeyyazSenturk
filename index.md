@@ -21,3 +21,6 @@ My third homework can be found [here](files/HW3.html)
 
 My fourth homework can be found [here](files/HW4.html)
 
+## Homework 5 (January 7)
+
+My fifth homework can be found [here](files/HW5.html)
